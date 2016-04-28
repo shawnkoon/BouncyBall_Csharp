@@ -1,0 +1,18 @@
+C:\Users\Shwan\Desktop\Shawn\C# Projects\wf_BouncyBall\wf_BouncyBall\bin\Debug\wf_BouncyBall.exe.config
+C:\Users\Shwan\Desktop\Shawn\C# Projects\wf_BouncyBall\wf_BouncyBall\bin\Debug\wf_BouncyBall.exe
+C:\Users\Shwan\Desktop\Shawn\C# Projects\wf_BouncyBall\wf_BouncyBall\bin\Debug\wf_BouncyBall.pdb
+C:\Users\Shwan\Desktop\Shawn\C# Projects\wf_BouncyBall\wf_BouncyBall\obj\Debug\wf_BouncyBall.csprojResolveAssemblyReference.cache
+C:\Users\Shwan\Desktop\Shawn\C# Projects\wf_BouncyBall\wf_BouncyBall\obj\Debug\wf_BouncyBall.Form1.resources
+C:\Users\Shwan\Desktop\Shawn\C# Projects\wf_BouncyBall\wf_BouncyBall\obj\Debug\wf_BouncyBall.Properties.Resources.resources
+C:\Users\Shwan\Desktop\Shawn\C# Projects\wf_BouncyBall\wf_BouncyBall\obj\Debug\wf_BouncyBall.csproj.GenerateResource.Cache
+C:\Users\Shwan\Desktop\Shawn\C# Projects\wf_BouncyBall\wf_BouncyBall\obj\Debug\wf_BouncyBall.exe
+C:\Users\Shwan\Desktop\Shawn\C# Projects\wf_BouncyBall\wf_BouncyBall\obj\Debug\wf_BouncyBall.pdb
+C:\Users\shawnkoon\Desktop\wf_BouncyBall\wf_BouncyBall\bin\Debug\wf_BouncyBall.exe.config
+C:\Users\shawnkoon\Desktop\wf_BouncyBall\wf_BouncyBall\obj\Debug\wf_BouncyBall.exe
+C:\Users\shawnkoon\Desktop\wf_BouncyBall\wf_BouncyBall\obj\Debug\wf_BouncyBall.pdb
+C:\Users\shawnkoon\Desktop\wf_BouncyBall\wf_BouncyBall\bin\Debug\wf_BouncyBall.exe
+C:\Users\shawnkoon\Desktop\wf_BouncyBall\wf_BouncyBall\bin\Debug\wf_BouncyBall.pdb
+C:\Users\shawnkoon\Desktop\wf_BouncyBall\wf_BouncyBall\obj\Debug\wf_BouncyBall.csprojResolveAssemblyReference.cache
+C:\Users\shawnkoon\Desktop\wf_BouncyBall\wf_BouncyBall\obj\Debug\wf_BouncyBall.Form1.resources
+C:\Users\shawnkoon\Desktop\wf_BouncyBall\wf_BouncyBall\obj\Debug\wf_BouncyBall.Properties.Resources.resources
+C:\Users\shawnkoon\Desktop\wf_BouncyBall\wf_BouncyBall\obj\Debug\wf_BouncyBall.csproj.GenerateResource.Cache
